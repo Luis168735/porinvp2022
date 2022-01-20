@@ -1,6 +1,6 @@
 # Portafolios de inversión - Primavera 2022
 
-En este repositorio se encuentra el material para el curso de portafolios de inversión en el periodo de otoño del 2022.
+En este repositorio se encuentra el material para el curso de portafolios de inversión en el periodo de primavera del 2022.
 
 Este curso está dividido en cuatro módulos. 
 
